@@ -1,0 +1,16 @@
+total 68
+drwxr-xr-x 2 root root   264 Mar 14 05:17 .
+drwxr-xr-x 6 root root  4096 Mar 13 11:10 ..
+-rwxr--r-- 1 root root    32 Mar 13 11:13 0-hello_world
+-rwxr--r-- 1 root root    28 Mar 13 11:19 1-confused_smiley
+-rwxr--r-- 1 root root    28 Mar 13 11:24 2-hellofile
+-rwxr--r-- 1 root root    39 Mar 13 11:29 3-twofiles
+-rwxr--r-- 1 root root    29 Mar 13 11:39 4-lastlines
+-rwxr--r-- 1 root root    29 Mar 13 11:41 5-firstlines
+-rwxr--r-- 1 root root    49 Mar 13 11:57 6-third_line
+-rw------- 1 root root 12288 Mar 13 11:51 .6-third_line.swp
+-rwxr--r-- 1 root root    93 Mar 13 12:13 7-file
+-rw-r--r-- 1 root root 12288 Mar 13 12:07 .7-file.swp
+-rwxr--r-- 1 root root    37 Mar 14 05:16 8-cwd_state
+-rw-r--r-- 1 root root     0 Mar 14 05:17 ls_cwd_content
+-rw-r--r-- 1 root root    13 Mar 13 11:11 README.md
